@@ -1,3 +1,3 @@
 ## Welcome
 
-![persys device](../persys_device.png)
+<img src="../persys_device.png" width="150">

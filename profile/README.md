@@ -1,3 +1,3 @@
 ## Welcome
 
-<img src="../persys_device.png" width="300">
+<img src="../persys_device.png" width="300" align="center">
